@@ -1,0 +1,101 @@
+{
+  "increment_id": "5502050221",
+  "order_id": "2155704",
+  "external_id": "1181992017530-01",
+  "creation_date": "2021-12-08 14:36:53",
+  "payment_date": null,
+  "invoice_details": {
+    "type": "B",
+    "business_name": null
+  },
+  "products": [
+    {
+      "unit_price": 4490,
+      "original_price": 4490,
+      "discount": 0,
+      "qty": 1,
+      "total": 4490,
+      "product_id_config": "372377",
+      "weight": 0,
+      "height": 0,
+      "length": 0,
+      "width": 0,
+      "item_id": "15543346",
+      "product_id": "372376",
+      "sku": "mimo_V22J510356-56-16",
+      "name": "TRAJE DE BANO JR CADIZ-56-16",
+      "image_url": "https://statics.glamit.com.ar/media/catalog/product/m/i/mimo_v22j510356_56_1_1.jpg",
+      "gtin": null
+    }
+  ],
+  "shipping": {
+    "carrier_id": "GlamitEnvios_glamit_envios_andreani_N_D",
+    "shipping_cost": 597,
+    "shipping_method": "GlamitEnvios_glamit_envios_andreani_N_D",
+    "billing_address": {
+      "street_name": "25 de mayo",
+      "street_number": "123",
+      "floor": "",
+      "door_number": "",
+      "observation": "",
+      "zip_code": "2559",
+      "country": "AR",
+      "province": "AR-X",
+      "province_name": "Córdoba",
+      "locality": "Cintra"
+    },
+    "shipping_address": {
+      "street_name": "25 de mayo",
+      "street_number": "123",
+      "floor": "",
+      "door_number": "",
+      "observation": "",
+      "zip_code": "2559",
+      "country": "AR",
+      "province": "AR-X",
+      "province_name": "Córdoba",
+      "locality": "Cintra"
+    },
+    "pickuppoint": null,
+    "carrier_pickup": null
+  },
+  "customer": {
+    "customer_name": "Jesica Cabrera",
+    "identification_number": "35832036",
+    "customer_id": "1008956",
+    "email": "jesicacabrera92.jc@gmail.com",
+    "phone": "+543537337682",
+    "birth_date": "1970-01-01",
+    "customer_group": "General"
+  },
+  "applied_rules": [
+    {
+      "name": "VTEXORDER-1181992017640-01",
+      "description": null,
+      "coupon_code": "VTEXORDER-1181992017640-01",
+      "from_date": "2021-12-08 00:00:00",
+      "to_date": "2025-01-01 23:59:59"
+    }
+  ],
+  "store_id": "55",
+  "store_name": "Mimo&Co\nMimo&Co\nMimo&Co",
+  "total_discount": 0,
+  "total_qty_ordered": 1,
+  "region": "ARS",
+  "payment_method": "mercadopago_standard",
+  "subtotal": 4490,
+  "total": 5087,
+  "state": "processing",
+  "status": "approved",
+  "glamit_oms_state": "APPROVED",
+  "coupon_code": "VTEXORDER-1181992017640-01",
+  "card_issuer": null,
+  "card": null,
+  "installments": null,
+  "interests": "0.0000",
+  "origin_channel": "store-vtex",
+  "origin": null,
+  "type": "new-order",
+  "rma_id": null,
+  "easy_cart": false
+}

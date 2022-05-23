@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://url_fila.org/url_fila-1.0.dtd">
+<suite name="Suite">
+<!--    <listeners>-->
+<!--        <listener class-name="utilities.Listeners"/>-->
+<!--    </listeners>-->
+
+    <test name="Validate Brands">
+        <classes>
+            <class name="ui_tests.vtex.RunnerClass.TestRunner"/>
+        </classes>
+    </test>
+
+<!--    <test name="Validating Cases">-->
+<!--        <classes>-->
+<!--            <class name="ui_tests.vtex.Mimoar"/>-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.admitOne"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.filaar"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.kosiukoar"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.tucciar"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.umaar"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.umbroar"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.vitaminaarg"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="ui_tests.vtex.herenciaar"/>&ndash;&gt;-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="App Testing">-->
+<!--        <classes>-->
+<!--            <class name="ui_tests.vtex.admitOne"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+    <!-- Test -->
+
+</suite>
